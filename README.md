@@ -12,6 +12,11 @@ Spotify is the World's largest audio streaming platform. This Project collects d
 # 3. Input Output
 It takes a data set of music tracks available on spotify platform as an input having the values about various features of those tracks.
 
+
+
+
+
+
 Relationship of every feature with every other feature:
 ![sa1](https://user-images.githubusercontent.com/114925607/208237581-7194763e-003e-473d-bcc4-3e0d61892939.png)
 
@@ -19,8 +24,37 @@ Relationship of every feature with every other feature:
 The magnitude of the value shows the degree of relation and the sign(positive or negative) show if they exist together or not.
 
 
+
+
+
+
+
 ![sa2](https://user-images.githubusercontent.com/114925607/208237588-e22e987b-5ab6-4d21-bed5-3d6f67abf04c.png)
+INFERENCES : More energy songs are expected to be loud volumed whereas less energy songs are expected to be soft pitched. Energy and Loudness of songs are directly related to each other.
+
+
+
+
+
+
+
+
 ![sa3](https://user-images.githubusercontent.com/114925607/208237591-309987e1-3456-40c5-bb0d-48a71588d7bc.png)
+INFERENCES : Accousticness and Popularity of songs are in an inverse relation with each other.
+
+
+
+
+
+
+
+
 ![sa](https://user-images.githubusercontent.com/114925607/208237594-0beff07f-12f7-44f3-9a67-beb73e7785cd.png)
 
+
+
+
+# 4. ScreenShot of Tableau Dashboard :
+
+![spotify_dashboard](https://user-images.githubusercontent.com/114925607/208237793-12b6e006-f843-4973-a8c4-f6d63673624b.png)
 
